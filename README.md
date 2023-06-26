@@ -9,5 +9,4 @@ ios app for codepath intermediate-ios-dev course
 # video walkthrough (demo)
 
 
-![GIF Animation](https://i.imgur.com/8DKEa8z.gif) 
-
+![GIF Animation](https://imgur.com/fytF5bZ.gif) 
